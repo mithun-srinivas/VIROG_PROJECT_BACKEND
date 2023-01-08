@@ -1,1 +1,8 @@
 # VIROG_PROJECT_BACKEND
+
+PRE_INSTALLATIONS:
+
+1. NodeJS
+
+STEP 01 => node i
+STEP 02 => node index.js
